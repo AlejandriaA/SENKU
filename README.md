@@ -4,6 +4,8 @@
 - Windows
 
 ## Instrucciones de uso
+Realizar la descarga del archivo Senku que se encuentra en el proyecto SENKU, luego, abrirlo y empezar a jugar. 
+Primero es importante escoger el tablero para poder iniciar a jugar.
 
 ## Reglas del juego
 
