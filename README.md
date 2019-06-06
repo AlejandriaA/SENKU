@@ -7,7 +7,7 @@
 Realizar la descarga del archivo Senku que se encuentra en el proyecto SENKU, luego, abrirlo y escoger el tablero deseado y comenzar a jugar.
 Para colocar las coordenadas de origen y de destino, se puede digitar de las siguientes maneras:
 
-*Con un espacio entre ambas)
+*Con un espacio entre ambas
 
      a b 
     
