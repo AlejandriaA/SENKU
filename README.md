@@ -14,7 +14,6 @@ Para colocar las coordenadas, se debe colocar de las siguientes maneras:
      b
      
 Siendo "a" la coordenada en el eje x y "b", en el eje y.
-
 Esto se debe realizar con las coordenadas de origen y de destino.
 
 ## Reglas del juego
