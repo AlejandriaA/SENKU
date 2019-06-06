@@ -4,9 +4,12 @@
 - Windows
 
 ## Instrucciones de uso
-Realizar la descarga del archivo Senku que se encuentra en el proyecto SENKU, luego, abrirlo y empezar a jugar. 
-
-Primero es importante escoger el tablero para poder iniciar a jugar.
+Realizar la descarga del archivo Senku que se encuentra en el proyecto SENKU, luego, abrirlo y escoger el tablero deseado y comenzar a jugar.
+Para colocar las coordenadas, se debe colocar de las siguientes maneras:
+     a b 
+     a
+     b
+Siendo "a" la coordenada en el eje x y "b", en el eje y.
 
 ## Reglas del juego
 
