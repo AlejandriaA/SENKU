@@ -5,7 +5,7 @@
 
 ## Instrucciones de uso
 Realizar la descarga del archivo Senku que se encuentra en el proyecto SENKU, luego, abrirlo y escoger el tablero deseado y comenzar a jugar.
-Para colocar las coordenadas, se debe colocar de las siguientes maneras:
+Para colocar las coordenadas de origen y de destino, se puede digitar de las siguientes maneras:
 
 *Con un espacio entre ambas)
 
@@ -17,7 +17,7 @@ Para colocar las coordenadas, se debe colocar de las siguientes maneras:
      
      b
      
-Siendo "a" la coordenada en el eje x y "b", en el eje y, esto se debe realizar con las coordenadas de origen y de destino.
+Siendo "a" la coordenada en el eje x y "b", en el eje y
 
 ## Reglas del juego
 
